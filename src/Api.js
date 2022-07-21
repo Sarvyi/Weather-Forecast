@@ -5,7 +5,7 @@ export const GeoAPIOption = {
 		'X-RapidAPI-Host': 'wft-geo-db.p.rapidapi.com'
 	}
 };
-
+// All of the api keys are over here
 export const GEO_API_URL = 'https://wft-geo-db.p.rapidapi.com/v1/geo';
 export const WEATHER_API_URL = "https://api.openweathermap.org/data/2.5";
 export const WEATHER_API_KEY = "d220122568e319ddafa409ab3e1858aa";
